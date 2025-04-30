@@ -6,18 +6,18 @@
 
 Before diving into FBS, let's briefly look at some of the leading forex brokers available to Nigerian traders:
 
-- **Exness**: Known for its ultra-low spreads and high leverage options, catering to both beginners and professionals.
-- **XM**: Offers a wide range of educational resources and a user-friendly platform, ideal for novice traders.
-- **XTB**: Provides a robust trading platform with comprehensive market analysis tools.
-- **AvaTrade**: Features a diverse range of trading instruments and strong regulatory compliance.
-- **FBS**: Offers various account types with competitive trading conditions and extensive educational materials.
-- **Pepperstone**: Renowned for its fast execution speeds and low trading costs.
+- [**Exness**](https://one.exnesstrack.org/a/english23)   : Known for its ultra-low spreads and high leverage options, catering to both beginners and professionals.
+- [**XM**](https://clicks.pipaffiliates.com/c?c=589901&l=en&p=0)   : Offers a wide range of educational resources and a user-friendly platform, ideal for novice traders.
+- [**XTB**](https://link-pso.xtb.com/pso/zrUCY) : Provides a robust trading platform with comprehensive market analysis tools.
+- [**AvaTrade**](https://www.avatrade.com/trading-account2?versionId=10301&tag=194438)  : Features a diverse range of trading instruments and strong regulatory compliance.
+- [**FBS**](https://fbs.partners?ibl=587836&ibp=21398815) : Offers various account types with competitive trading conditions and extensive educational materials.
+- [**Pepperstone**](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954): Renowned for its fast execution speeds and low trading costs.
 
 ---
 
 ## 📊 Broker Comparison Table
 
-| Feature                 | [**FBS**](https://fbs.partners?ibl=587836&ibp=21398815)                       | [**Exness**]((https://one.exnesstrack.org/a/english23)                      | [**XM**](https://clicks.pipaffiliates.com/c?c=589901&l=en&p=0)                          | [**XTB**]((https://link-pso.xtb.com/pso/zrUCY))                         | [**AvaTrade**](https://www.avatrade.com/trading-account2?versionId=10301&tag=194438)                    | [**Pepperstone**](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954)
+| Feature                 | [**FBS**]                      | [**Exness**]                   | [**XM**]                       | [**XTB**]                        | [**AvaTrade**]                  |[**Pepperstone**]
                  |
 |-------------------------|----------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | **Regulation**          | FSC, CySEC, ASIC                 | CBCS, CySEC, FCA, FSA, FSCA     | IFSC, ASIC, CySEC               | FCA, KNF                        | CBI, ASIC, FSCA, CySEC          | ASIC, FCA, DFSA, BaFin          |
