@@ -17,8 +17,7 @@ Before diving into FBS, let's briefly look at some of the leading forex brokers 
 
 ## 📊 Broker Comparison Table
 
-| Feature                 | [**FBS**]                      | [**Exness**]                   | [**XM**]                       | [**XTB**]                        | [**AvaTrade**]                  |[**Pepperstone**]
-                 |
+| Feature                 | **FBS**                          | **Exness**                      | **XM**                          | **XTB**                         | **AvaTrade**                    | **Pepperstone**                 |
 |-------------------------|----------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | **Regulation**          | FSC, CySEC, ASIC                 | CBCS, CySEC, FCA, FSA, FSCA     | IFSC, ASIC, CySEC               | FCA, KNF                        | CBI, ASIC, FSCA, CySEC          | ASIC, FCA, DFSA, BaFin          |
 | **Min. Deposit**        | $1 (Cent Account)                | $1                              | $5                              | $0                              | $100                            | $200                            |
@@ -31,6 +30,7 @@ Before diving into FBS, let's briefly look at some of the leading forex brokers 
 | **Customer Support**    | 24/7                             | 24/7                            | 24/5                            | 24/5                            | 24/5                            | 24/5                            |
 
 ---
+
 
 ## 🔍 In-Depth Review of FBS Nigeria
 
