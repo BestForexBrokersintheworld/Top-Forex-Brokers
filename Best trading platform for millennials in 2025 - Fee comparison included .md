@@ -72,7 +72,7 @@ Choose one that aligns with your risk appetite and schedule.
 
 Here’s a comparison of top brokers for millennials, featuring their core offerings and affiliate links:
 
-| Broker        | Regulation       | Minimum Deposit | Spreads from | Platform Options | Affiliate Link |
+| Broker        | Regulation       | Minimum Deposit | Spreads from | Platform Options | Link |
 |---------------|------------------|------------------|---------------|------------------|----------------|
 | Exness        | FCA, CySEC       | $10              | 0.1 pips      | MT4, MT5         | [Join Exness](https://one.exnesstrack.org/a/english23) |
 | JustMarkets   | FSCA, FSA        | $1               | 0.3 pips      | MT4, MT5         | [Join JustMarkets](https://one.justmarkets.link/a/79iqw0j6nj) |
