@@ -314,17 +314,6 @@ Your ideal broker depends on your **strategy**, **capital**, and **region**. Her
 
 [Avatrade Nigeria Review: Is It a Legal, Safe, Trusted, and Good Choice for You?](https://github.com/BestForexBrokersintheworld/Top-Forex-Brokers/blob/main/AvaTrade%20Nigeria%20Review%3A%20Is%20It%20a%20Legal%2C%20Safe%2C%20Trusted%2C%20and%20Good%20Choice%20for%20You%20.md)
 
-[Avatrade Canada Review: Is It a Legal, Safe, Trusted, and Good Choice for You?]()
-
-[Avatrade South Africa Review: Is It a Legal, Safe, Trusted, and Good Choice for You?]()
-
-[Avatrade India Review: Is It a Legal, Safe, Trusted, and Good Choice for You?]()
-[Avatrade UAE Review: Is It a Legal, Safe, Trusted, and Good Choice for You?]()
-[Avatrade Philippines Review: Is It a Legal, Safe, Trusted, and Good Choice for You?]()
-[Avatrade Australia Review: Is It a Legal, Safe, Trusted, and Good Choice for You?]()
-[.FBS Review]()
-[Apa itu FBS Indonesia Broker 2025? Penipu Bukan? Aman atau Curang? 🔍 Ulasan Lengkap!]()
-[FBS bonus]()
 [FBS Nigeria Review: Is It a Legal, Safe, Trusted, and Good Choice for You?](https://github.com/BestForexBrokersintheworld/Top-Forex-Brokers/blob/main/FBS%20Nigeria%20Review%3A%20Is%20It%20a%20Legal%2C%20Safe%2C%20Trusted%2C%20and%20Good%20Choice%20for%20You%3F%20.md)
 
 [BEST FOREX BROKERS in UAE Dubai 2025, Trading Regulated Legal](https://github.com/BestForexBrokersintheworld/Top-Forex-Brokers/blob/main/BEST%20FOREX%20BROKERS%20in%20UAE%20Dubai%202025%2C%20Trading%20Regulated%20Legal%20.md)
@@ -376,6 +365,7 @@ Your ideal broker depends on your **strategy**, **capital**, and **region**. Her
 [BEST FOREX BROKERS in Pakistan 2025, Trading platform App](https://github.com/BestForexBrokersintheworld/Top-Forex-Brokers/blob/main/BEST%20FOREX%20BROKERS%20in%20Pakistan%202025%2C%20Trading%20platform%20App%20.md)
 
 [BEST FOREX BROKERS in Kuwait](https://github.com/BestForexBrokersintheworld/Top-Forex-Brokers/blob/main/BEST%20FOREX%20BROKERS%20in%20Kuwait%20.md)
+
 [BEST FOREX BROKERS in Sri Lanka (sinhala)](https://github.com/BestForexBrokersintheworld/Top-Forex-Brokers/blob/main/BEST%20FOREX%20BROKERS%20in%20Sri%20Lanka%20(sinhala)%20.md)
 
 [BEST FOREX BROKERS in Zimbabwe](https://github.com/BestForexBrokersintheworld/Top-Forex-Brokers/blob/main/BEST%20FOREX%20BROKERS%20in%20Zimbabwe%20.md)
