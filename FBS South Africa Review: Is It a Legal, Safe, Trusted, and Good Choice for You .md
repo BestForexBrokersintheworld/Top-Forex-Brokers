@@ -41,7 +41,7 @@ FBS is especially popular among South African retail traders thanks to its low b
 
 ## 🛡️ Is FBS Legal in South Africa?
 
-Yes, **FBS is legal to use in South Africa**, even though it is **not regulated by the FSCA** (Financial Sector Conduct Authority). Instead, FBS operates legally via its offshore entities:
+Yes, **FBS is legal to use in South Africa**, even though it is **not regulated by the [FSCA](https://www.fsca.co.za/Pages/Default.aspx)** (Financial Sector Conduct Authority). Instead, FBS operates legally via its offshore entities:
 
 - **FBS Markets Inc.** – regulated by **IFSC Belize**
 - **Tradestone Ltd** – regulated by **CySEC** (European clients)
